@@ -1,9 +1,11 @@
-package com.ProjectmanagementSystem.Projectmanagement_system.Services;
+package com.ProjectmanagementSystem.Projectmanagement_system.Services.Project;
 
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.Chat;
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.Project;
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.User;
 import com.ProjectmanagementSystem.Projectmanagement_system.Repositories.ProjectRepository;
+import com.ProjectmanagementSystem.Projectmanagement_system.Services.Chat.ChatService;
+import com.ProjectmanagementSystem.Projectmanagement_system.Services.User.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;

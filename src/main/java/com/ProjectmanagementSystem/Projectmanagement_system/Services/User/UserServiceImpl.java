@@ -1,4 +1,4 @@
-package com.ProjectmanagementSystem.Projectmanagement_system.Services;
+package com.ProjectmanagementSystem.Projectmanagement_system.Services.User;
 
 import com.ProjectmanagementSystem.Projectmanagement_system.Config.JwtProvider;
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.User;

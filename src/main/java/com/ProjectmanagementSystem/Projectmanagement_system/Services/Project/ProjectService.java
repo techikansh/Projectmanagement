@@ -1,4 +1,4 @@
-package com.ProjectmanagementSystem.Projectmanagement_system.Services;
+package com.ProjectmanagementSystem.Projectmanagement_system.Services.Project;
 
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.Chat;
 import com.ProjectmanagementSystem.Projectmanagement_system.Models.Project;
